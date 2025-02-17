@@ -56,6 +56,8 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
     'https://dizhi9.pages.dev'
+	'https:gitlab.com/dizhi22',
+	'https:dizhi77.github.io'
 ];
 var foreverUrls = [
 	JumpPage,
