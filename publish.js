@@ -46,7 +46,7 @@ var urls=[];
 	urls.push(".kndvyill.cc");
 	urls.push(".rytyus.cc");
 
-var JumpPage="https://lsperzhs.cc";
+var JumpPage="https://kowsxnke.xyz";
 
 var newestUrls = [];
 
