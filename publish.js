@@ -47,8 +47,7 @@ var urls=[];
 	urls.push(".zsjbylse.cc");
 	
 	
-
-var JumpPage="https://mukaqanh.cc";
+var JumpPage="https://itqudtov.xyz";
 
 var newestUrls = [];
 
