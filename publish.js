@@ -46,10 +46,7 @@ var urls=[];
         urls.push(".qybegmsh.xyz"); 
         urls.push(".fftfbhkf.xyz");
         
-       
-       
-           
-var JumpPage="https://sqcnvmi.xyz";
+ var JumpPage="https://sqcnvmi.xyz";
 
 var newestUrls = [];
 
@@ -64,7 +61,6 @@ var otherUrls = [
 ];
 var foreverUrls = [
 	JumpPage,
-	'https://17haose.com',
         'http://hstvx.com ',
 	'http://www.hstvx.com'
 ];
