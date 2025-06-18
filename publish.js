@@ -43,10 +43,11 @@ var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
         urls.push(".shzleeu.xyz");
+        urls.push(".qybegmsh.xyz"); 
         urls.push(".fftfbhkf.xyz");
-        urls.push(".kjmyxwux.xyz"); 
+        
        
-            
+       
            
 var JumpPage="https://sqcnvmi.xyz";
 
@@ -64,8 +65,8 @@ var otherUrls = [
 var foreverUrls = [
 	JumpPage,
 	'https://17haose.com',
-    'https://sex166.net',
-	'https://seqinghub.com'
+        'http://hstvx.com ',
+	'http://www.hstvx.com'
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
