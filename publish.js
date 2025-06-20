@@ -42,11 +42,12 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
+        urls.push(". gxpzwlne.top"); 
         urls.push(".shzleeu.xyz");
-        urls.push(".qybegmsh.xyz"); 
-        urls.push(".fftfbhkf.xyz");
-        
- var JumpPage="https://sqcnvmi.xyz";
+        urls.push(".qybegmsh.xyz");
+            
+           
+var JumpPage="https://habocph.top";
 
 var newestUrls = [];
 
@@ -61,8 +62,9 @@ var otherUrls = [
 ];
 var foreverUrls = [
 	JumpPage,
-        'http://hstvx.com ',
-	'http://www.hstvx.com'
+	'https://17haose.com',
+    'https://sex166.net',
+	'https://seqinghub.com'
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
