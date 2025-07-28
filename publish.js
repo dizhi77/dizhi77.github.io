@@ -42,9 +42,9 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
-        urls.push(".hnvbhzil.cc"); 
+        urls.push(".hyvikip.cc"); 
+        urls.push(".hnvbhzil.cc");
         urls.push(".nxnfspsu.top");
-        urls.push(".qxnhrzzx.cc");
             
            
 var JumpPage="https://hnvugaf.top";
