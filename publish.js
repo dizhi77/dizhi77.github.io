@@ -42,9 +42,9 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
-        urls.push(".qzerdpo.top"); 
+        urls.push(".fgczsdq.org"); 
+        urls.push(".qzerdpo.top");
         urls.push(".hyvikip.cc");
-        urls.push(".hnvbhzil.cc");
             
            
 var JumpPage="https://quatzznr.site";
@@ -158,3 +158,4 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
