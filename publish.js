@@ -42,9 +42,9 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
-        urls.push(".bevctkj.cc"); 
+        urls.push(".rwdsrmu.cc"); 
+        urls.push(".bevctkj.cc");
         urls.push(".rdihynjj.com");
-        urls.push(".khyvsjo.top");
             
            
 var JumpPage="https://bfkezrqw.top";
@@ -158,6 +158,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
