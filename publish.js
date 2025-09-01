@@ -47,7 +47,7 @@ var urls=[];
         urls.push(".bevctkj.cc");
             
            
-var JumpPage="https://izzcwhko.top";
+var JumpPage="https://epwclhev.cc";
 
 var newestUrls = [];
 
@@ -158,6 +158,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
