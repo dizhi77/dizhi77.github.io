@@ -42,9 +42,9 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
-        urls.push(".badgvaq.xyz"); 
+        urls.push(".rninpmyh.com"); 
+        urls.push(".badgvaq.xyz");
         urls.push(".hhgtauo.xyz");
-        urls.push(".sxgukxn.cc");
             
            
 var JumpPage="https://azzgwhqr.cc";
