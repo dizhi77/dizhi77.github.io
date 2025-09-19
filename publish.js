@@ -47,7 +47,7 @@ var urls=[];
         urls.push(".badgvaq.xyz");
             
            
-var JumpPage="https://vfyhayi.xyz";
+var JumpPage="https://vwzbhdg.com";
 
 var newestUrls = [];
 
@@ -158,6 +158,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
