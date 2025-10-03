@@ -44,7 +44,7 @@ var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 var urls=[];
         urls.push(".hilqewt.com"); 
         urls.push(".jtszmbyi.com");
-        urls.push(".ogxbrpv.xyz");
+        urls.push(".pnpnxlit.cc");
             
            
 var JumpPage="https://hguyxgjz.cc";
@@ -158,6 +158,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
