@@ -45,7 +45,7 @@ var urls=[];
         urls.push(".nyughnn.com"); 
         urls.push(".btdgmrv.cc");
         urls.push(".vnqlgxkq.cc");
-            
+        urls.push(".hqmwcra.xyz");    
            
 var JumpPage="https://nyughnn.com";
 
@@ -158,6 +158,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
