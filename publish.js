@@ -42,10 +42,10 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
-        urls.push(".bsmhxmnv.com"); 
-        urls.push(".kqeknsej.xyz");
+        urls.push(".vnqdowcl.cc"); 
         urls.push(".giictrr.xyz");
-        urls.push(".wucynqkw.cc");    
+        urls.push(".wucynqkw.cc");
+        urls.push(".ahftrew.xyz");    
            
 var JumpPage="https://phtstcw.xyz";
 
@@ -158,6 +158,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
