@@ -42,7 +42,7 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
-        urls.push(".pbqxfrib.com"); 
+        urls.push(".wzlxnxov.com"); 
         urls.push(".bzmiaig.com");
         urls.push(".qwkdzhrl.cc");
         urls.push(".briiimf.cc");    
