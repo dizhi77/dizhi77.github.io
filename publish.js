@@ -42,12 +42,12 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
-        urls.push(".wzlxnxov.com"); 
-        urls.push(".bzmiaig.com");
+        urls.push(".syyzrtlht.com"); 
+        urls.push(".sdslphxw.cc");
         urls.push(".qwkdzhrl.cc");
-        urls.push(".briiimf.cc");    
+        urls.push(".bzmiaig.com");    
            
-var JumpPage="https://pcctput.com";
+var JumpPage="https://unfzyqgf.com";
 
 var newestUrls = [];
 
