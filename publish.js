@@ -42,10 +42,10 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
-        urls.push(".aealjywoq.cc"); 
+        urls.push(".mffinjte.cc"); 
+        urls.push(".aealjywoq.cc");
         urls.push(".qshmibbqd.cc");
-        urls.push(".vtlceako.cc");
-        urls.push(".uvxamywgc.com");    
+        urls.push(".vtlceako.cc");    
            
 var JumpPage="https:///kzchzyinn.cc";
 
