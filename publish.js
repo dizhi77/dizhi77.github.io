@@ -43,7 +43,7 @@ var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
         urls.push(".kdixkybiv.cc"); 
-        urls.push(".dteoxkkm.cc");
+        urls.push(".nrdcsnfuc.cc");
         urls.push(".vqmrlioan.cc");
         urls.push(".octaajify.cc");    
            
