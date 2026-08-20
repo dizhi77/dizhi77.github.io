@@ -42,10 +42,10 @@ var emails = [
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[];
-        urls.push(".tmvfglhy.cc"); 
+        urls.push(".trjmrahu.com"); 
+        urls.push(".tmvfglhy.cc");
         urls.push(".tlvcktvo.cc");
-        urls.push(".cfkiqnahr.cc");
-        urls.push(".ohtwvdoxf.cc");    
+        urls.push(".cfkiqnahr.cc");    
            
 var JumpPage="https://gppifwry.cc";
 
