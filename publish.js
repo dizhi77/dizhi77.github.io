@@ -41,11 +41,12 @@ var emails = [
 
 var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
-var urls=[];
-        urls.push(".xwoglzqfe.cc"); 
-        urls.push(".raxeshzfs.com");
-        urls.push(".tbizslwby.cc");
-        urls.push(".qzfdgsqbk.cc");    
+var urls=[
+  'xwoglzqfe.cc',
+  'raxeshzfs.com',
+  'tbizslwby.cc',
+  'qzfdgsqbk.cc',
+];   
            
 var JumpPage="https://ucuiyfbxe.cc";
 
