@@ -39,7 +39,6 @@ var emails = [
     'sqhub3678@gmail.com'
 ];
 
-var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
 
 var urls=[
   'xwoglzqfe.cc',
