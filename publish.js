@@ -41,13 +41,13 @@ var emails = [
 
 
 var urls=[
+	'ghrxanqno.cc',
 	'e33c06c5.cc',
 	'86ic69yf6.cc',
 	'mh8z4zmt0.cc',
-	'yg84t97p.cc',
 ];   
            
-var JumpPage="https://e30nuondj.cc";
+var JumpPage="https://mhxadydjd.cc";
 
 var newestUrls = [];
 
