@@ -41,9 +41,9 @@ var emails = [
 
 
 var urls=[
+	'oinhnhkke.cc',
 	'ipwdxlnk.cc',
 	'lhmvhigeu.cc',
-	'monkfbnn.cc',
 	'ljkbckqvr.cc',
 ];   
            
