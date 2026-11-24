@@ -41,10 +41,10 @@ var emails = [
 
 
 var urls=[
+	'qaoezlag.cc',
 	'wpzvohzv.cc',
 	'oinhnhkke.cc',
 	'ipwdxlnk.cc',
-	'ljkbckqvr.cc',
 ];   
            
 var JumpPage="https://jsyyulflt.cc";
