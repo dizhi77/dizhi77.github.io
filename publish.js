@@ -47,7 +47,7 @@ var urls=[
 	'ipwdxlnk.cc',
 ];   
            
-var JumpPage="https://jsyyulflt.cc";
+var JumpPage="https://ylynistb.cc";
 
 var newestUrls = [];
 
