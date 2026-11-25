@@ -41,10 +41,10 @@ var emails = [
 
 
 var urls=[
+	'nmnoduci.cc',
 	'qaoezlag.cc',
 	'wpzvohzv.cc',
 	'oinhnhkke.cc',
-	'ipwdxlnk.cc',
 ];   
            
 var JumpPage="https://ylynistb.cc";
